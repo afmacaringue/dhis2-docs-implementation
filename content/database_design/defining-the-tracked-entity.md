@@ -92,8 +92,6 @@ TEA are essential to search client records, but to improve system performance, y
 
 However, as a general rule, you should consider breaking all searchable TEA into the smallest possible segments. For example, instead of a searchable TEA for “full name”, consider one for “family name” and one for “given name”. Segmenting search criteria like this will generally provide quicker search results than scanning the entire full name for each TEA.
 
-TEA may also be marked “confidential” during program configuration. If encryption is enabled in the DHIS2 instance, all “confidential” TEA will be encrypted at rest in the database. It should be noted that this means confidential TEA cannot be used as search criteria by end users.
-
 
 ### The Core TEA Case Profile
 
