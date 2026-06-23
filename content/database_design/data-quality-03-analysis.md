@@ -1,6 +1,6 @@
 # Assessing data quality
 
-DHIS2 has a wide range of functions for assessing data quality, available across different apps and functions, and this section gives and overview of this functionality. It is structured according to three types of data quality metrics:
+DHIS2 has a wide range of functions for assessing data quality, available across different apps and functions, and this section gives an overview of this functionality. It is structured according to three types of data quality metrics:
 
 * Completeness and timeliness of data
 * Consistency of data across related variables
